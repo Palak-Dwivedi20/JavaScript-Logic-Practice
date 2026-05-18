@@ -1,0 +1,16 @@
+// Print Fibonacci Series up to n terms.
+
+function findFibonacci(n) {
+    let a = 0;
+    let b = 1;
+
+    for(let i = 0; i <= n; i++) {
+        console.log(a);
+
+        let next = a + b;
+        a = b;
+        b = next;
+    }
+}
+
+findFibonacci(10)
