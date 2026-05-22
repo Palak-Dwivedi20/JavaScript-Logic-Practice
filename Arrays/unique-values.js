@@ -13,3 +13,5 @@ function findUniqueValues (arr) {
 }
 
 console.log(findUniqueValues([1, 2, 2, 1, 4, 9, 4, 5]));
+
+
