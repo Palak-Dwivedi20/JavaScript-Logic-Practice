@@ -12,3 +12,6 @@ function longestWord(str) {
 }
 
 console.log(longestWord("I Love JavaScript"));
+
+
+
