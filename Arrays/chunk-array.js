@@ -3,12 +3,14 @@
 function chunkArray(arr, size) {
     let result = [];
 
-    for(let i = 1; i < arr.length; i += size) {
+    for(let i = 0; i < arr.length; i += size) {
         let chunk = arr.slice(i, i + size);
-        result.push(chunk)
+        result.push(chunk);
     }
 
     return result;
 }
 
 console.log(chunkArray([1, 2, 3, 4, 5, 6], 2));
+
+
