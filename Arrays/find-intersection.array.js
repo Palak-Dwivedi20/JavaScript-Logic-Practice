@@ -15,3 +15,5 @@ function findIntersection(arr1, arr2) {
 console.log(findIntersection([1, 2, 3, 4], [3, 4, 5, 6]));
 console.log(findIntersection([10, 20, 30], [20, 40, 50]));
 console.log(findIntersection([1, 2], [3, 4]));
+
+
