@@ -15,3 +15,4 @@ function findDifference(arr1, arr2) {
 }
 
 console.log(findDifference([10, 20, 30], [20, 40]));
+
