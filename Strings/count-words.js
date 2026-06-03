@@ -6,3 +6,5 @@ function countWordsInSentence(str) {
 }
 
 console.log(countWordsInSentence("I love javascript very much"));
+
+
