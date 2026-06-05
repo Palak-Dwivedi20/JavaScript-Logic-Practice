@@ -1,7 +1,7 @@
 // Find Largest Sum Pair In Array
 
 function findLargestSumPair(arr) {
-    let largest = 0;
+    let largest = -Infinity;
     let sum = 0;
 
     for(let i = 0; i < arr.length; i++) {
@@ -18,4 +18,7 @@ function findLargestSumPair(arr) {
 
 }
 
-console.log(findLargestSumPair([10, 5, 8, 20, 15]))
+console.log(findLargestSumPair([10, 5, 8, 20, 15]));
+
+
+
