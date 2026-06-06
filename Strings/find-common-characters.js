@@ -14,3 +14,6 @@ function findCommonCharacters(str1, str2) {
 }
 
 console.log(findCommonCharacters("abcdef", "bdxy"));
+
+
+
