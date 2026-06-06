@@ -16,3 +16,6 @@ function findAllPairsWithTargetSum(arr, target) {
 }
 
 console.log(findAllPairsWithTargetSum([2, 7, 11, 15, 3, 6], 9));
+
+
+
