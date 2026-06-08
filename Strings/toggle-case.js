@@ -18,3 +18,4 @@ function toggleCase(str) {
 
 console.log(toggleCase("Hello World"));
 console.log(toggleCase("JaVaScRiPt"));
+
